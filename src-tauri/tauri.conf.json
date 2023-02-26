@@ -73,10 +73,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 700,
+        "height": 650,
         "resizable": false,
         "title": "TunnlTo",
-        "width": 850
+        "width": 350
       }
     ]
   }
